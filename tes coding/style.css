@@ -1,0 +1,56 @@
+.navbar{
+    width: 100%;
+    height: 10vh;
+    background-color: blue;
+}
+.container{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+}
+.sub{
+    width: 20%;
+    height: 90vh;
+    flex-direction: column;
+}
+.side1{
+    width: 100%;
+    height: 85vh;
+    background-color: red;
+}
+.side2{
+    width: 100%;
+    height: 15vh;
+    background-color: purple;
+}
+.sub-2{
+    width: 60%;
+    height: 90vh;
+    flex-direction: column;
+}
+.kotak-1{
+    width: 100%;
+    height: 50vh;
+    background-color: green;
+}
+.kotak-2{
+    width: 100%;
+    height: 50vh;
+    background-color: yellow;
+}
+.sub-3{
+    width: 20%;
+    height: 90vh;
+    flex-direction: column;
+}
+.k1{
+    width: 100%;
+    height: 85vh;
+    background-color: red;
+}
+.k2{
+    width: 100%;
+    height: 15vh;
+    background-color: purple;
+}
+
